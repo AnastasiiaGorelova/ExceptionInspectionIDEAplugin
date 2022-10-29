@@ -35,20 +35,9 @@
                 groupKey="group.names.probable.bugs"
                 enabledByDefault="true"
                 implementationClass="test.task.exceptionhighlighting.ExceptionInspection"
-                displayName="Add 'SerializedName' annotation"
+                displayName="Exception is thrown here!"
                 shortName="ExceptionInspector"
                 runForWholeFile="true" />
-
-<!--        <localInspection-->
-<!--                language="kotlin"-->
-<!--                groupPath="Kotlin"-->
-<!--                groupBundle="messages.InspectionsBundle"-->
-<!--                groupKey="group.names.probable.bugs"-->
-<!--                enabledByDefault="true"-->
-<!--                implementationClass="com.ruben.codespector.SerializedNameInspector"-->
-<!--                displayName="Add 'SerializedName' annotation"-->
-<!--                shortName="SerializedNameInspector"-->
-<!--                runForWholeFile="true" />-->
 
 
     </extensions>
