@@ -10,4 +10,4 @@ It is the simple IDEA plugin **for Kotlin** which shows inspection in all places
 2. Choose Kotlin project in opened IDEA window. (Test project `./ExceptionInspectionTestProject` can be used.)
 
 ## How it looks like
-![example](IDEAplugin.gif)
+![example](plugin_example.gif)
