@@ -8,7 +8,7 @@
     <name>ExceptionHighlighting</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="anastasia.gorelova2003@gmail.com" url="https://www.yourcompany.com">JUB student</vendor>
+    <vendor email="-" url="-">JUB student</vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
